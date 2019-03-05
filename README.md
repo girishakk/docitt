@@ -49,17 +49,10 @@ Before you can install Node, you’ll need to install two other applications. Fo
 
 Installing Node.js and NPM is pretty straightforward using Homebrew. Homebrew handles downloading, unpacking and installing Node and NPM on your system. The whole process (after you have XCode and Homebrew installed) should only take you a few minutes.
 
-1. Open the Terminal app and type 
+    $sudo apt-get update
+    $sudo apt-get upgrade
+    $sudo apt-get -y install nodejs
 
-    $brew install node
-
-2. To check the version on Node and npm type the command
-
-    $node -v
-    v0.10.31
-    
-    $npm -v
-    1.4.27
 
 ## Installation
 
