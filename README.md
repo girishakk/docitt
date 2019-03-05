@@ -81,7 +81,7 @@ To start the Development Environment type the following command in Terminal
     $npm start
 
 ### Run in Browser
-To run project in Browser visit the following address
+To run project in Browser visit to the following address
 
     http://localhost:3000
 
