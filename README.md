@@ -59,7 +59,13 @@ Installing Node.js and NPM is pretty straightforward using Homebrew. Homebrew ha
     v0.10.31
 
     $npm -v
-    1.427
+    1.4.27
+    
+    $node -v
+    v0.10.31
+
+    $npm -v
+    1.4.27
 
 
 ## Installation
