@@ -56,8 +56,10 @@ Installing Node.js and NPM is pretty straightforward using Homebrew. Homebrew ha
     2. To check the version on Node and npm type the command:
 
          $node -v
+         v0.10.31
 
          $npm -v
+         1.4.27
 
 ## Installation
 
