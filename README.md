@@ -1,4 +1,4 @@
-# docitt-admin-portal
+# docitt_admin_portal
 
 ## Requirements
 
@@ -58,6 +58,27 @@ Installing Node.js and NPM is pretty straightforward using Homebrew. Homebrew ha
 
     $npm -v
     1.4.27
+
+## Installation
+
+### Clone Repository
+To Clone the Repository type the following command in terminal
+
+    $git clone https://github.com/girishakk/docitt.git
+
+Then change the Directory to docitt
+
+    $cd docitt
+
+### Install Project Dependancies
+Before starting the project you need to install the dependencies. To install hit the following command in Terminal.
+
+    $npm install
+
+### Start the Development Environment
+To start the Development Environment type the following command in Terminal
+
+    $npm start
 
 
 
