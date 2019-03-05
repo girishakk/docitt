@@ -10,6 +10,7 @@ The following command should be able to run after the installation to check curr
 
 Note: 
 node version should be more than- v8.0.0
+
 npm version should be more than- v6.1.0
 
     $node --version
