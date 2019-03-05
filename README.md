@@ -6,7 +6,7 @@ You will need Node.js and npm installation on your environment and you can use a
 
 ### Installation
 
-After installation of Node & npm should be able to run command after the installation procedure.
+The following command should be able to run after the installation to check current node and npm Version.
 
     $node --version
     v8.10.0
