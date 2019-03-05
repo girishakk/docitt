@@ -41,6 +41,26 @@ To get the most up-to-date npm, you can run the command:
 
 ####Node installation on mac
 
+Before you can install Node, you’ll need to install two other applications. Fortunately, once you’ve got these on your machine, installing Node takes just a few minutes.
+
+1. XCode. Apple’s XCode development software is used to build Mac and iOS apps,but it also includes the tools you need to compile software for use on your Mac. XCode is free and you can find it in the Apple App Store.
+
+2. Homebrew. Homebrew is a package manager for the Mac — it makes installing most open source sofware (like Node) as simple as writing brew install node. You can learn more about Homebrew at the Homebrew website. 
+
+Installing Node.js and NPM is pretty straightforward using Homebrew. Homebrew handles downloading, unpacking and installing Node and NPM on your system. The whole process (after you have XCode and Homebrew installed) should only take you a few minutes.
+
+1. Open the Terminal app and type 
+    $brew install node
+
+2. To check the version on Node and npm type the command
+    $node -v
+    v0.10.31
+
+    $npm -v
+    1.4.27
+
+
+
 
     
 
