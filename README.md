@@ -2,13 +2,13 @@
 
 ## Requirements
 
-You need Node.js and npm installation on your environment and you can use your appropriate Editor.
+You need Node.js and npm installation on your environment and you can use your appropriate editor.
 
 ### Installation
 
-The following command should be able to run after the installation to check current node and npm Version.
-Node version should be more than- v8.0.0 &
-npm should be more than- v6.1.0
+The following command should be able to run after the installation to check current node and npm version.
+Node version should be more than v8.0.0 &
+npm should be more than v6.1.0
 
     $node --version
     v8.10.0
@@ -32,7 +32,7 @@ To get the most up-to-date npm, you can run the command:
 
     $sudo npm install npm --global
 
-## Installation
+## Development
 
 ### Clone Repository
 To Clone the Repository type the following in Terminal
