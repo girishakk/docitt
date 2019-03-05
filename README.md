@@ -2,7 +2,7 @@
 
 ## Requirements
 
-You need Node.js and npm installation on your environment and you can use your appropriate editor.
+You need node.js and npm installation on your environment and you can use your appropriate editor.
 
 ### Installation
 
@@ -49,7 +49,7 @@ Before starting the project you need to install the dependencies. To install hit
     $npm install
 
 ### Start the Development Environment
-To start the Development Environment type the following command in Terminal
+To start type the following command in Terminal
 
     $npm start
 
