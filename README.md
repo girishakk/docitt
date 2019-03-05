@@ -52,10 +52,14 @@ Installing Node.js and NPM is pretty straightforward using Homebrew. Homebrew ha
 1. Open the Terminal app and type
 
     $sudo install node
-    $sudo apt-get update
-    $sudo apt-get upgrade
-    $sudo apt-get -y install nodejs
+    
+2. To check the version on Node and npm type the command
 
+    $node -v
+    v0.10.31
+
+    $npm -v
+    1.4.27
 
 ## Installation
 
