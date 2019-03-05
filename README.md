@@ -2,7 +2,7 @@
 
 ## Requirements
 
-You will need Node.js and npm installation on your environment and you can use appropriate EditorConfig plugin for your editor(not mandatory).
+You need Node.js and npm installation on your environment and you can use your appropriate Editor.
 
 ### Installation
 
@@ -33,11 +33,13 @@ To get the most up-to-date npm, you can run the command:
 ## Installation
 
 ### Clone Repository
-To Clone the Repository type the following command in Terminal
+To Clone the Repository type the following in Terminal
 
-    $git clone https://girishakk@bitbucket.org/sisforce/docitt_admin_portal.git
+    $git clone https://{bit-bucket-userName}@bitbucket.org/sisforce/docitt_admin_portal.git
 
-Then change the Directory to newly created Directory
+Then change the Directory
+
+    $cd docitt_admin_portal
 
 ### Install Project Dependancies
 Before starting the project you need to install the dependencies. To install hit the following command in Terminal.
@@ -50,6 +52,6 @@ To start the Development Environment type the following command in Terminal
     $npm start
 
 ### Run on Browser
-To run project in Browser visit to the following address
+To run project on Browser visit to the following address
 
     http://localhost:3000
