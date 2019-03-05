@@ -7,11 +7,8 @@ You need Node.js and npm installation on your environment and you can use your a
 ### Installation
 
 The following command should be able to run after the installation to check current node and npm Version.
-
-Note: 
-node version should be more than- v8.0.0
-
-npm version should be more than- v6.1.0
+1. node version should be more than- v8.0.0
+2. npm version should be more than- v6.1.0
 
     $node --version
     v8.10.0
