@@ -39,7 +39,6 @@ To get the most up-to-date npm, you can run the command:
 
         $sudo npm install npm --global
 
-#### Node installation on mac
 
 
     
